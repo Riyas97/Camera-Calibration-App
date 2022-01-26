@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/CameraCalib">
+        <file>tick.png</file>
+    </qresource>
+</RCC>
