@@ -1,6 +1,6 @@
 # Camera-Calibration-App
 
-
+![](./display.PNG)
 
 ## Introduction
 This is camera calibration application implemented using OpenCV and QT. The main aim of the application is to calibrate given checkerboard images using camera calibration parameters sepecified by user (either directly in the app or by a JSON file), 
